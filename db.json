@@ -2,11 +2,19 @@
   "users": [
     {
       "id": 0,
-      "username": "mapp"
+      "username": "gus"
     },
     {
       "id": 1,
       "username": "mapp"
+    },
+    {
+      "id": 2,
+      "username": "ruckens"
+    },
+    {
+      "id": 3,
+      "username": "treast"
     }
   ]
 }
